@@ -59,5 +59,5 @@
 | Level01 | <img src="Docs/levels/level01.png" width="320"> | Mario-style run: spawn room, a long connecting tunnel, then a big yard to the goal tower. | Landmark: a tall yellow tower beside the goal, with a yellow orb next to it. |
 | Level02 | <img src="Docs/levels/level02.png" width="320"> | Among Us-style hub: three corridors leave the hub, and only one leads to the reactor (the goal) while the other two end in reward rooms. | Light and contrast: the correct room bright colors and lighting and the other two are greyish. |
 | Level03 | <img src="Docs/levels/level03.png" width="320"> | Blasphemous-style: a doorway into a tight crypt, then a big nave with a pit crossed by a bridge to the shrine. | Pinch and release: the tight crypt opens into the nave, and the shrine is in view as soon as you leave it. |
-| Level04 | <img src="Docs/levels/level04.png" width="320"> | | |
+| Level04 | <img src="Docs/levels/level04.png" width="320"> | Mirror's Edge: three switchback ramps up to a rooftop, and then a bridge to the helipad. | Leading lines: every ramp and the bridge have a distint color seperate from the rest, pointing the way up. |
 | Level05 | <img src="Docs/levels/level05.png" width="320"> | | |
