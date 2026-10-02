@@ -56,7 +56,7 @@
 ## Level blockouts
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/levels/level01.png" width="320"> | | |
+| Level01 | <img src="Docs/levels/level01.png" width="320"> | Mario-style run: spawn room, a long connecting tunnel, then a big yard to the goal tower. | Landmark: a tall yellow tower beside the goal, with a yellow orb next to it. |
 | Level02 | <img src="Docs/levels/level02.png" width="320"> | | |
 | Level03 | <img src="Docs/levels/level03.png" width="320"> | | |
 | Level04 | <img src="Docs/levels/level04.png" width="320"> | | |
