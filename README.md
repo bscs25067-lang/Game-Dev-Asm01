@@ -57,7 +57,7 @@
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
 | Level01 | <img src="Docs/levels/level01.png" width="320"> | Mario-style run: spawn room, a long connecting tunnel, then a big yard to the goal tower. | Landmark: a tall yellow tower beside the goal, with a yellow orb next to it. |
-| Level02 | <img src="Docs/levels/level02.png" width="320"> | | |
+| Level02 | <img src="Docs/levels/level02.png" width="320"> | Among Us-style hub: three corridors leave the hub, and only one leads to the reactor (the goal) while the other two end in reward rooms. | Light and contrast: the correct room bright colors and lighting and the other two are greyish. |
 | Level03 | <img src="Docs/levels/level03.png" width="320"> | | |
 | Level04 | <img src="Docs/levels/level04.png" width="320"> | | |
 | Level05 | <img src="Docs/levels/level05.png" width="320"> | | |
